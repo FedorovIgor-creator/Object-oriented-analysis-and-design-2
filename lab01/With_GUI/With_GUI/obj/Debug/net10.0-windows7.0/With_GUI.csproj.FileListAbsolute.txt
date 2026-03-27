@@ -1,0 +1,32 @@
+C:\Users\igor_\Desktop\TSU_TASKS-main\TSU_TASKS-main\Object-Oriented Analysis and Design\Factory_Method\With_GUI\With_GUI\bin\Debug\net10.0-windows7.0\With_GUI.exe
+C:\Users\igor_\Desktop\TSU_TASKS-main\TSU_TASKS-main\Object-Oriented Analysis and Design\Factory_Method\With_GUI\With_GUI\bin\Debug\net10.0-windows7.0\With_GUI.deps.json
+C:\Users\igor_\Desktop\TSU_TASKS-main\TSU_TASKS-main\Object-Oriented Analysis and Design\Factory_Method\With_GUI\With_GUI\bin\Debug\net10.0-windows7.0\With_GUI.runtimeconfig.json
+C:\Users\igor_\Desktop\TSU_TASKS-main\TSU_TASKS-main\Object-Oriented Analysis and Design\Factory_Method\With_GUI\With_GUI\bin\Debug\net10.0-windows7.0\With_GUI.dll
+C:\Users\igor_\Desktop\TSU_TASKS-main\TSU_TASKS-main\Object-Oriented Analysis and Design\Factory_Method\With_GUI\With_GUI\bin\Debug\net10.0-windows7.0\With_GUI.pdb
+C:\Users\igor_\Desktop\TSU_TASKS-main\TSU_TASKS-main\Object-Oriented Analysis and Design\Factory_Method\With_GUI\With_GUI\obj\Debug\net10.0-windows7.0\With_GUI.Form1.resources
+C:\Users\igor_\Desktop\TSU_TASKS-main\TSU_TASKS-main\Object-Oriented Analysis and Design\Factory_Method\With_GUI\With_GUI\obj\Debug\net10.0-windows7.0\With_GUI.csproj.GenerateResource.cache
+C:\Users\igor_\Desktop\TSU_TASKS-main\TSU_TASKS-main\Object-Oriented Analysis and Design\Factory_Method\With_GUI\With_GUI\obj\Debug\net10.0-windows7.0\With_GUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\igor_\Desktop\TSU_TASKS-main\TSU_TASKS-main\Object-Oriented Analysis and Design\Factory_Method\With_GUI\With_GUI\obj\Debug\net10.0-windows7.0\With_GUI.AssemblyInfoInputs.cache
+C:\Users\igor_\Desktop\TSU_TASKS-main\TSU_TASKS-main\Object-Oriented Analysis and Design\Factory_Method\With_GUI\With_GUI\obj\Debug\net10.0-windows7.0\With_GUI.AssemblyInfo.cs
+C:\Users\igor_\Desktop\TSU_TASKS-main\TSU_TASKS-main\Object-Oriented Analysis and Design\Factory_Method\With_GUI\With_GUI\obj\Debug\net10.0-windows7.0\With_GUI.csproj.CoreCompileInputs.cache
+C:\Users\igor_\Desktop\TSU_TASKS-main\TSU_TASKS-main\Object-Oriented Analysis and Design\Factory_Method\With_GUI\With_GUI\obj\Debug\net10.0-windows7.0\With_GUI.dll
+C:\Users\igor_\Desktop\TSU_TASKS-main\TSU_TASKS-main\Object-Oriented Analysis and Design\Factory_Method\With_GUI\With_GUI\obj\Debug\net10.0-windows7.0\refint\With_GUI.dll
+C:\Users\igor_\Desktop\TSU_TASKS-main\TSU_TASKS-main\Object-Oriented Analysis and Design\Factory_Method\With_GUI\With_GUI\obj\Debug\net10.0-windows7.0\With_GUI.pdb
+C:\Users\igor_\Desktop\TSU_TASKS-main\TSU_TASKS-main\Object-Oriented Analysis and Design\Factory_Method\With_GUI\With_GUI\obj\Debug\net10.0-windows7.0\With_GUI.genruntimeconfig.cache
+C:\Users\igor_\Desktop\TSU_TASKS-main\TSU_TASKS-main\Object-Oriented Analysis and Design\Factory_Method\With_GUI\With_GUI\obj\Debug\net10.0-windows7.0\ref\With_GUI.dll
+C:\Users\igor_\Desktop\фабричный метод 2\Factory_Method\With_GUI\With_GUI\bin\Debug\net10.0-windows7.0\With_GUI.exe
+C:\Users\igor_\Desktop\фабричный метод 2\Factory_Method\With_GUI\With_GUI\bin\Debug\net10.0-windows7.0\With_GUI.deps.json
+C:\Users\igor_\Desktop\фабричный метод 2\Factory_Method\With_GUI\With_GUI\bin\Debug\net10.0-windows7.0\With_GUI.runtimeconfig.json
+C:\Users\igor_\Desktop\фабричный метод 2\Factory_Method\With_GUI\With_GUI\bin\Debug\net10.0-windows7.0\With_GUI.dll
+C:\Users\igor_\Desktop\фабричный метод 2\Factory_Method\With_GUI\With_GUI\bin\Debug\net10.0-windows7.0\With_GUI.pdb
+C:\Users\igor_\Desktop\фабричный метод 2\Factory_Method\With_GUI\With_GUI\obj\Debug\net10.0-windows7.0\With_GUI.Form1.resources
+C:\Users\igor_\Desktop\фабричный метод 2\Factory_Method\With_GUI\With_GUI\obj\Debug\net10.0-windows7.0\With_GUI.csproj.GenerateResource.cache
+C:\Users\igor_\Desktop\фабричный метод 2\Factory_Method\With_GUI\With_GUI\obj\Debug\net10.0-windows7.0\With_GUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\igor_\Desktop\фабричный метод 2\Factory_Method\With_GUI\With_GUI\obj\Debug\net10.0-windows7.0\With_GUI.AssemblyInfoInputs.cache
+C:\Users\igor_\Desktop\фабричный метод 2\Factory_Method\With_GUI\With_GUI\obj\Debug\net10.0-windows7.0\With_GUI.AssemblyInfo.cs
+C:\Users\igor_\Desktop\фабричный метод 2\Factory_Method\With_GUI\With_GUI\obj\Debug\net10.0-windows7.0\With_GUI.csproj.CoreCompileInputs.cache
+C:\Users\igor_\Desktop\фабричный метод 2\Factory_Method\With_GUI\With_GUI\obj\Debug\net10.0-windows7.0\With_GUI.dll
+C:\Users\igor_\Desktop\фабричный метод 2\Factory_Method\With_GUI\With_GUI\obj\Debug\net10.0-windows7.0\refint\With_GUI.dll
+C:\Users\igor_\Desktop\фабричный метод 2\Factory_Method\With_GUI\With_GUI\obj\Debug\net10.0-windows7.0\With_GUI.pdb
+C:\Users\igor_\Desktop\фабричный метод 2\Factory_Method\With_GUI\With_GUI\obj\Debug\net10.0-windows7.0\With_GUI.genruntimeconfig.cache
+C:\Users\igor_\Desktop\фабричный метод 2\Factory_Method\With_GUI\With_GUI\obj\Debug\net10.0-windows7.0\ref\With_GUI.dll
