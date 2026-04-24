@@ -11,7 +11,7 @@
 
 3. Диаграмма классов:
 
-  <img width="978" height="558" alt="image" src="https://github.com/FedorovIgor-creator/Object-oriented-analysis-and-design-2/blob/main/lab03/diag%20ooap%203.jpg> /"
+  <img width="978" height="558" alt="image" src="https://github.com/FedorovIgor-creator/Object-oriented-analysis-and-design-2/blob/main/lab03/diag%20ooap%203.jpg> /">
 
 
 4. Вывод:
